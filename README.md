@@ -1,4 +1,4 @@
-- Hi, I’m @dlxogh7938
+- Hi, I’m @Resonar313
 - I’m interested in Javascript, React. And I love making something cool.
 - I’m currently learning not only Javascript but also React, Java, JSP, Spring, SQL.
 - I want to work as a front-end developer for a leading company in UX and new technologies.
